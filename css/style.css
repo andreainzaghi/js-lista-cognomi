@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing :border-box;
+}
+body{
+  background-color: red;
+}
+#demo{
+  padding:15px;
+  background-color: #fff;
+  margin-top:300px;
+
+}
+.uno{
+  display:flex;
+  justify-content:center;
+}
+#demos{
+  padding:15px;
+  background-color: #fff;
+  margin-top:40px;
+
+}
+.unos{
+  display:flex;
+  justify-content:center;
+}
